@@ -1,2 +1,4 @@
+<?php
 /vendor
 test.php
+/config/keys.php;
